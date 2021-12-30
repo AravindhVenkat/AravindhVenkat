@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @AravindhVenkat
-- 👀 I’m interested in Java & Full Stack Development
+- 👀 I’m interested in Full Stack Development, App Development & Agile-Scrum Master role
 - 🌱 I’m currently learning Spring Boot, Cloud & DevOps
-- 💞️ I’m looking to collaborate with like-minded Devs 
-- 📫 Reach out to me on aravindhvenkat30@gmail.com & https://www.linkedin.com/in/aravindh-v1337/
+- 💞️ I’m looking to collaborate on p 
+- 📫 Email me on aravindhvenkat30@gmail.com 
+- 📫 Connect with me on LinkedIn 
+
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/aravindh-v1337/]
 
 <!---
 AravindhVenkat/AravindhVenkat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
